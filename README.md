@@ -3,7 +3,7 @@
 ## 项目简介
 
 这是一个基于 **Vue 3 + TDesign** 的前端项目，结合 **Node.js + Express** 的后端项目。前端使用 TDesign 组件库构建用户界面，后端提供 RESTful API 接口。
-
+(backend为临时后端资源)
 ---
 
 ## 技术栈
@@ -38,6 +38,7 @@ npm install
 npm run dev
 打开浏览器，访问 http://localhost:5173。
 
+后端部分暂不使用
 1. 启动后端
 进入后端目录：
 cd ../backend

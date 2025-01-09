@@ -36,7 +36,7 @@ cd frontend
 npm install
 启动开发服务器：
 npm run dev
-打开浏览器，访问 http://localhost:5173。
+打开浏览器，访问 http://localhost:3002。
 
 后端部分暂不使用
 1. 启动后端
